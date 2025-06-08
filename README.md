@@ -8,7 +8,7 @@ Fetches your remaining core hours at the start of VS Code when the extension is 
 or when you enable the extension.
 Fetches your remaining hours when clicking the statusbar message.
 
-![alt text](<https://raw.githubusercontent.com/cschot/codespaces-usage-monitor/refs/heads/main/Schermafbeelding%202025-06-08%20003332.png>)
+![alt text](Schermafbeelding%202025-06-08%20003332.png)
 ## Known Issues
 Will only work on VS Code 1.100+, because of the reliance on Octokit ESM.\
 If there is demand, I will make it work for versions prior 1.100
@@ -33,3 +33,7 @@ Initial release
 ### 0.0.2
 
 Added screenshot and changelog to README
+
+### 0.0.3
+
+Changed screenshot URL so it will show on VS code marketplace
